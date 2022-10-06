@@ -1,0 +1,40 @@
+:root {
+    --background-color: #484848;
+    --foreground-color: rgb(152, 172, 247);
+    --font-color: black;
+}
+
+
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: black;
+    flex-wrap: wrap;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: var(--foreground-color);
+    margin-bottom: 10px;
+    /* box-shadow: black 0 10px 10px; */
+    border: black;
+    border-style: solid
+}
+
+
+header ul {
+    text-align: right;
+    margin-right: 10px;
+}
+
+
+nav ul li {
+    display: inline-flex;
+    font-weight: bolder;
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: black;
+}
