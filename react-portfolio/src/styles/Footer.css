@@ -35,7 +35,7 @@ footer ul {
 footer ul li {
     display: inline;
     font-weight: bolder;
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     justify-content: space-evenly;
 }
