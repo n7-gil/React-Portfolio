@@ -29,7 +29,7 @@ export default function Project() {
                             <img src={Plattelo} img id="platello-snippet" />
                         </a>
 
-                        <a href="https://n7-gil.github.io/Pop-Quiz/" target="_blank" rel="noreferrer">
+                        <a href="https://pop-umai.herokuapp.com/" target="_blank" rel="noreferrer">
                             <img src={Popumai} img id="popquiz-snippet" />
                         </a>
                     </div>
