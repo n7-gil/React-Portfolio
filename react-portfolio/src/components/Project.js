@@ -4,6 +4,7 @@ import Potrait from '../assets/images/potrait.jpg';
 import Plattelo from '../assets/images/platello.PNG';
 import Popumai from '../assets/images/popUmai.PNG';
 
+
 export default function Project() {
     return (
         <div>
